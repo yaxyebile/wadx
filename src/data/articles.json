@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Breaking: Major Tech Conference Announces Revolutionary AI Breakthrough",
+    "content": "In a groundbreaking announcement at the annual Tech Innovation Summit, researchers unveiled a new artificial intelligence system that promises to revolutionize how we interact with technology. The breakthrough, developed over three years by a team of international scientists, demonstrates unprecedented capabilities in natural language processing and machine learning.\n\nThe new AI system, dubbed 'NextGen AI', can understand context and nuance in human communication with 99.7% accuracy, surpassing all previous benchmarks. This development could have far-reaching implications for industries ranging from healthcare to education.\n\n'This is not just an incremental improvement,' said Dr. Sarah Chen, lead researcher on the project. 'We're looking at a fundamental shift in how AI can assist and augment human capabilities.'\n\nThe technology is expected to be integrated into consumer products within the next 18 months, with early applications focusing on virtual assistants and automated customer service systems.",
+    "author": "John Smith",
+    "publishedAt": "2024-01-15T10:30:00Z",
+    "categoryId": 1,
+    "imageUrl": "/placeholder.svg?height=400&width=600",
+    "featured": true,
+    "readTime": "5 min read"
+  },
+  {
+    "id": 2,
+    "title": "Climate Summit Reaches Historic Agreement on Carbon Emissions",
+    "content": "World leaders have reached a landmark agreement at the Global Climate Summit, committing to reduce carbon emissions by 50% over the next decade. The agreement, signed by 195 countries, represents the most ambitious climate action plan in history.\n\nThe comprehensive plan includes specific targets for renewable energy adoption, forest conservation, and industrial transformation. Developing nations will receive $100 billion annually in climate financing to support their transition to clean energy.\n\n'Today marks a turning point in our fight against climate change,' declared UN Secretary-General Maria Rodriguez. 'This agreement shows that when the world comes together, we can achieve the impossible.'\n\nKey provisions include mandatory carbon pricing, phase-out of coal power plants by 2035, and investment in green technology research. The agreement will be legally binding and subject to annual review.",
+    "author": "Emma Johnson",
+    "publishedAt": "2024-01-14T14:20:00Z",
+    "categoryId": 2,
+    "imageUrl": "/placeholder.svg?height=400&width=600",
+    "featured": true,
+    "readTime": "7 min read"
+  },
+  {
+    "id": 3,
+    "title": "Stock Markets Surge Following Federal Reserve Decision",
+    "content": "Global stock markets experienced significant gains today following the Federal Reserve's decision to maintain current interest rates. The Dow Jones Industrial Average closed up 2.3%, while the S&P 500 gained 2.1%.\n\nInvestors responded positively to Fed Chairman Jerome Powell's comments about the economy's resilience and the central bank's commitment to supporting growth. Technology stocks led the rally, with major companies seeing gains of 3-5%.\n\n'The Fed's decision provides much-needed stability in uncertain times,' said financial analyst Robert Davis. 'Markets are clearly relieved by the measured approach to monetary policy.'\n\nThe positive sentiment extended to international markets, with European and Asian indices also posting strong gains. Analysts predict continued volatility as markets digest the implications of the Fed's policy stance.",
+    "author": "Michael Brown",
+    "publishedAt": "2024-01-13T16:45:00Z",
+    "categoryId": 3,
+    "imageUrl": "/placeholder.svg?height=400&width=600",
+    "featured": false,
+    "readTime": "4 min read"
+  },
+  {
+    "id": 4,
+    "title": "Championship Final Set as Underdogs Defeat Favorites",
+    "content": "In a stunning upset that has shocked the sports world, the underdog Phoenix Eagles defeated the heavily favored Metropolitan Lions 28-21 in yesterday's semifinal match. The victory sets up an unlikely championship final that few predicted at the season's start.\n\nQuarterback Jake Martinez threw for 340 yards and three touchdowns, leading the Eagles' comeback from a 14-point deficit in the fourth quarter. The team's Cinderella story has captured the imagination of fans nationwide.\n\n'We believed in ourselves when nobody else did,' said Martinez after the game. 'This team has heart, and we're not done yet.'\n\nThe Eagles will face the Northern Wolves in next week's championship game. Ticket prices have skyrocketed, with some seats selling for over $2,000 as fans clamor to witness what could be one of the greatest upsets in sports history.",
+    "author": "Lisa Wilson",
+    "publishedAt": "2024-01-12T22:15:00Z",
+    "categoryId": 4,
+    "imageUrl": "/placeholder.svg?height=400&width=600",
+    "featured": false,
+    "readTime": "6 min read"
+  },
+  {
+    "id": 5,
+    "title": "New Archaeological Discovery Rewrites Ancient History",
+    "content": "Archaeologists have uncovered a remarkable ancient city in the Amazon rainforest that challenges our understanding of pre-Columbian civilizations. The discovery, made using advanced LiDAR technology, reveals a sophisticated urban center that housed an estimated 100,000 people.\n\nThe city, tentatively named 'Amazonia Prima,' features complex irrigation systems, monumental architecture, and evidence of advanced agricultural practices. Carbon dating suggests the settlement flourished between 800-1200 CE.\n\n'This discovery fundamentally changes how we view ancient Amazonian societies,' explained lead archaeologist Dr. Carlos Mendez. 'We're looking at a level of sophistication that rivals contemporary European cities of the same period.'\n\nThe site contains numerous artifacts, including intricate pottery, gold ornaments, and stone carvings that provide insights into the daily life and beliefs of this lost civilization. Researchers estimate it will take decades to fully excavate and study the site.",
+    "author": "David Garcia",
+    "publishedAt": "2024-01-11T09:00:00Z",
+    "categoryId": 5,
+    "imageUrl": "/placeholder.svg?height=400&width=600",
+    "featured": true,
+    "readTime": "8 min read"
+  },
+  {
+    "id": 6,
+    "title": "Breakthrough Gene Therapy Shows Promise for Rare Disease",
+    "content": "A revolutionary gene therapy treatment has shown remarkable success in clinical trials for treating a rare genetic disorder that affects children. The therapy, developed by researchers at Johns Hopkins University, has restored normal function in 85% of patients.\n\nThe treatment targets Severe Combined Immunodeficiency (SCID), often called 'bubble boy disease,' which leaves children without a functioning immune system. Traditional treatments require lifelong isolation or risky bone marrow transplants.\n\n'These results exceed our most optimistic projections,' said Dr. Jennifer Park, the study's principal investigator. 'We're seeing children who were essentially prisoners in their own homes now living normal, healthy lives.'\n\nThe therapy works by introducing healthy copies of the defective gene directly into the patient's bone marrow cells. The FDA has granted breakthrough therapy designation, potentially accelerating approval for widespread use.",
+    "author": "Dr. Amanda Foster",
+    "publishedAt": "2024-01-10T11:30:00Z",
+    "categoryId": 6,
+    "imageUrl": "/placeholder.svg?height=400&width=600",
+    "featured": false,
+    "readTime": "6 min read"
+  }
+]

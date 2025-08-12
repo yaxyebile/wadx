@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Technology",
+    "description": "Latest tech news, innovations, and digital trends",
+    "imageUrl": "/placeholder.svg?height=200&width=300",
+    "color": "#3b82f6"
+  },
+  {
+    "id": 2,
+    "name": "Environment",
+    "description": "Climate change, sustainability, and environmental issues",
+    "imageUrl": "/placeholder.svg?height=200&width=300",
+    "color": "#10b981"
+  },
+  {
+    "id": 3,
+    "name": "Business",
+    "description": "Market news, finance, and economic developments",
+    "imageUrl": "/placeholder.svg?height=200&width=300",
+    "color": "#f59e0b"
+  },
+  {
+    "id": 4,
+    "name": "Sports",
+    "description": "Sports news, scores, and athletic achievements",
+    "imageUrl": "/placeholder.svg?height=200&width=300",
+    "color": "#ef4444"
+  },
+  {
+    "id": 5,
+    "name": "Science",
+    "description": "Scientific discoveries, research, and breakthroughs",
+    "imageUrl": "/placeholder.svg?height=200&width=300",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 6,
+    "name": "Health",
+    "description": "Medical news, health tips, and wellness information",
+    "imageUrl": "/placeholder.svg?height=200&width=300",
+    "color": "#06b6d4"
+  }
+]
